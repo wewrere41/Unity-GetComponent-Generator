@@ -1,0 +1,10 @@
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Generator\GetComponentGenerator\GetComponentGenerator\bin\Release\netstandard2.0\GetComponentGenerator.deps.json
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Generator\GetComponentGenerator\GetComponentGenerator\bin\Release\netstandard2.0\GetComponentGenerator.dll
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Generator\GetComponentGenerator\GetComponentGenerator\bin\Release\netstandard2.0\GetComponentGenerator.pdb
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Generator\GetComponentGenerator\GetComponentGenerator\obj\Release\netstandard2.0\GetComponentGenerator.csproj.AssemblyReference.cache
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Generator\GetComponentGenerator\GetComponentGenerator\obj\Release\netstandard2.0\GetComponentGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Generator\GetComponentGenerator\GetComponentGenerator\obj\Release\netstandard2.0\GetComponentGenerator.AssemblyInfoInputs.cache
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Generator\GetComponentGenerator\GetComponentGenerator\obj\Release\netstandard2.0\GetComponentGenerator.AssemblyInfo.cs
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Generator\GetComponentGenerator\GetComponentGenerator\obj\Release\netstandard2.0\GetComponentGenerator.csproj.CoreCompileInputs.cache
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Generator\GetComponentGenerator\GetComponentGenerator\obj\Release\netstandard2.0\GetComponentGenerator.dll
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Generator\GetComponentGenerator\GetComponentGenerator\obj\Release\netstandard2.0\GetComponentGenerator.pdb
