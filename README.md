@@ -9,10 +9,12 @@
 #### ####
 
 >#### Default Way
-![Alt text](Documentation/Images/ExampleA.png "Image0" )\
+![ExampleA](https://user-images.githubusercontent.com/45511976/210049774-cfb8baf8-2d72-4560-bab3-7245843ccb25.png)
 
 >#### With Source Generator
-![Alt text](Documentation/Images/ExampleB.png "Image1")
+![ExampleB](https://user-images.githubusercontent.com/45511976/210049772-9de8e139-1ac6-4d86-8369-e0ac0f6cb438.png)
+
+
 
 
 https://user-images.githubusercontent.com/45511976/210048719-a76e51c0-61eb-405e-b121-07ddc0528524.mp4
