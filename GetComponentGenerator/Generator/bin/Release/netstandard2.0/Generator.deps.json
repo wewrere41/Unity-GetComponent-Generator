@@ -10,7 +10,7 @@
       "Generator/1.0.0": {
         "dependencies": {
           "Microsoft.CodeAnalysis": "3.8.0",
-          "Microsoft.CodeAnalysis.Common": "3.9.0-5.final",
+          "Microsoft.CodeAnalysis.Common": "3.9.0",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
@@ -46,7 +46,7 @@
         }
       },
       "Microsoft.CodeAnalysis.Analyzers/3.0.0": {},
-      "Microsoft.CodeAnalysis.Common/3.9.0-5.final": {
+      "Microsoft.CodeAnalysis.Common/3.9.0": {
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "3.0.0",
           "System.Collections.Immutable": "5.0.0",
@@ -59,7 +59,7 @@
         "runtime": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.dll": {
             "assemblyVersion": "3.9.0.0",
-            "fileVersion": "3.900.21.11610"
+            "fileVersion": "3.900.21.12420"
           }
         },
         "resources": {
@@ -106,7 +106,7 @@
       },
       "Microsoft.CodeAnalysis.CSharp/3.8.0": {
         "dependencies": {
-          "Microsoft.CodeAnalysis.Common": "3.9.0-5.final"
+          "Microsoft.CodeAnalysis.Common": "3.9.0"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.dll": {
@@ -160,7 +160,7 @@
         "dependencies": {
           "Humanizer.Core": "2.2.0",
           "Microsoft.CodeAnalysis.CSharp": "3.8.0",
-          "Microsoft.CodeAnalysis.Common": "3.9.0-5.final",
+          "Microsoft.CodeAnalysis.Common": "3.9.0",
           "Microsoft.CodeAnalysis.Workspaces.Common": "3.8.0"
         },
         "runtime": {
@@ -213,7 +213,7 @@
       },
       "Microsoft.CodeAnalysis.VisualBasic/3.8.0": {
         "dependencies": {
-          "Microsoft.CodeAnalysis.Common": "3.9.0-5.final"
+          "Microsoft.CodeAnalysis.Common": "3.9.0"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.dll": {
@@ -265,7 +265,7 @@
       },
       "Microsoft.CodeAnalysis.VisualBasic.Workspaces/3.8.0": {
         "dependencies": {
-          "Microsoft.CodeAnalysis.Common": "3.9.0-5.final",
+          "Microsoft.CodeAnalysis.Common": "3.9.0",
           "Microsoft.CodeAnalysis.VisualBasic": "3.8.0",
           "Microsoft.CodeAnalysis.Workspaces.Common": "3.8.0"
         },
@@ -320,7 +320,7 @@
       "Microsoft.CodeAnalysis.Workspaces.Common/3.8.0": {
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "1.1.1",
-          "Microsoft.CodeAnalysis.Common": "3.9.0-5.final",
+          "Microsoft.CodeAnalysis.Common": "3.9.0",
           "System.Composition": "1.0.31"
         },
         "runtime": {
@@ -823,12 +823,12 @@
       "path": "microsoft.codeanalysis.analyzers/3.0.0",
       "hashPath": "microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512"
     },
-    "Microsoft.CodeAnalysis.Common/3.9.0-5.final": {
+    "Microsoft.CodeAnalysis.Common/3.9.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-iCDAtQWHJomLAEb60telViRWpQ1aVG9YbDLdg/CWUjTQt7vNe4GynYR12xHPndg3UHVSOYj3UQsz8nHIPVGGng==",
-      "path": "microsoft.codeanalysis.common/3.9.0-5.final",
-      "hashPath": "microsoft.codeanalysis.common.3.9.0-5.final.nupkg.sha512"
+      "sha512": "sha512-HiWjF7PNIEngmFg2Xk8cZ/83lRIRkk9v+5ibbY5B7VvjNGdClGAMuWtZER9F5rGRR41VbJLco9ah73jFTh4vPw==",
+      "path": "microsoft.codeanalysis.common/3.9.0",
+      "hashPath": "microsoft.codeanalysis.common.3.9.0.nupkg.sha512"
     },
     "Microsoft.CodeAnalysis.CSharp/3.8.0": {
       "type": "package",

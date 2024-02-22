@@ -7,7 +7,7 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.CodeAnalysis" Version="3.8.0" />
-      <PackageReference Include="Microsoft.CodeAnalysis.Common" Version="3.9.0-5.final" />
+      <PackageReference Include="Microsoft.CodeAnalysis.Common" Version="3.9.0" />
     </ItemGroup>
 
 </Project>

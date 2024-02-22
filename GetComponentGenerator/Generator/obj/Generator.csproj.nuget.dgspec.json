@@ -47,7 +47,7 @@
             },
             "Microsoft.CodeAnalysis.Common": {
               "target": "Package",
-              "version": "[3.9.0-5.final, )"
+              "version": "[3.9.0, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SBD+IyxbkwFvRXytaOdWky58iJDZbk2vZtoySE17vxcv8Wm4060KOpIaWDkSOI1DV9vqXNZkaFtf+aZ/bn6t3w==",
+  "dgSpecHash": "NVOgzRM54RIddE6XgFwizsFXX3LfazpCfCTdOy/o687Om6pwuDIICBfNGTeq1WeutChWLZ6PvpsWdVq5/vYsJw==",
   "success": true,
   "projectFilePath": "C:\\CODE\\Unity\\Projects\\WorkingArea\\Unity GetComponent Generator\\GetComponentGenerator\\Generator\\Generator.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\Loord\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Loord\\.nuget\\packages\\microsoft.codeanalysis\\3.8.0\\microsoft.codeanalysis.3.8.0.nupkg.sha512",
     "C:\\Users\\Loord\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
-    "C:\\Users\\Loord\\.nuget\\packages\\microsoft.codeanalysis.common\\3.9.0-5.final\\microsoft.codeanalysis.common.3.9.0-5.final.nupkg.sha512",
+    "C:\\Users\\Loord\\.nuget\\packages\\microsoft.codeanalysis.common\\3.9.0\\microsoft.codeanalysis.common.3.9.0.nupkg.sha512",
     "C:\\Users\\Loord\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\microsoft.codeanalysis.csharp.3.8.0.nupkg.sha512",
     "C:\\Users\\Loord\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\3.8.0\\microsoft.codeanalysis.csharp.workspaces.3.8.0.nupkg.sha512",
     "C:\\Users\\Loord\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\3.8.0\\microsoft.codeanalysis.visualbasic.3.8.0.nupkg.sha512",
@@ -16,7 +16,7 @@
     "C:\\Users\\Loord\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\3.8.0\\microsoft.codeanalysis.workspaces.common.3.8.0.nupkg.sha512",
     "C:\\Users\\Loord\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Loord\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Loord\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Loord\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Loord\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Loord\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
@@ -58,7 +58,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp.Workspaces 3.8.0 requires Microsoft.CodeAnalysis.Common (= 3.8.0) but version Microsoft.CodeAnalysis.Common 3.9.0-5.final was resolved.",
+      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp.Workspaces 3.8.0 requires Microsoft.CodeAnalysis.Common (= 3.8.0) but version Microsoft.CodeAnalysis.Common 3.9.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -68,7 +68,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic.Workspaces 3.8.0 requires Microsoft.CodeAnalysis.Common (= 3.8.0) but version Microsoft.CodeAnalysis.Common 3.9.0-5.final was resolved.",
+      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic.Workspaces 3.8.0 requires Microsoft.CodeAnalysis.Common (= 3.8.0) but version Microsoft.CodeAnalysis.Common 3.9.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -78,7 +78,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp 3.8.0 requires Microsoft.CodeAnalysis.Common (= 3.8.0) but version Microsoft.CodeAnalysis.Common 3.9.0-5.final was resolved.",
+      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp 3.8.0 requires Microsoft.CodeAnalysis.Common (= 3.8.0) but version Microsoft.CodeAnalysis.Common 3.9.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -88,7 +88,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.Workspaces.Common 3.8.0 requires Microsoft.CodeAnalysis.Common (= 3.8.0) but version Microsoft.CodeAnalysis.Common 3.9.0-5.final was resolved.",
+      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.Workspaces.Common 3.8.0 requires Microsoft.CodeAnalysis.Common (= 3.8.0) but version Microsoft.CodeAnalysis.Common 3.9.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -98,7 +98,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic 3.8.0 requires Microsoft.CodeAnalysis.Common (= 3.8.0) but version Microsoft.CodeAnalysis.Common 3.9.0-5.final was resolved.",
+      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic 3.8.0 requires Microsoft.CodeAnalysis.Common (= 3.8.0) but version Microsoft.CodeAnalysis.Common 3.9.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
