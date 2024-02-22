@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1450b5a064637e54da0b7af31c496e71
+guid: 77dc6634d7620b64da523c475e1ca9e2
 labels:
 - RoslynAnalyzer
 PluginImporter:
@@ -30,6 +30,7 @@ PluginImporter:
     second:
       enabled: 0
       settings:
+        AndroidSharedLibraryType: Executable
         CPU: ARMv7
   - first:
       Any: 

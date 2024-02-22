@@ -9,7 +9,7 @@ public partial class ExampleB : MonoBehaviour
     [GetComponent] private SpriteRenderer _spriteRenderer;
     [GetComponent(Parent)] private Rigidbody _rigidbody;
     [GetComponent(Child)] private MeshRenderer _meshRenderer;
-    
+
     private void Awake() => InitializeComponents();
 }
 

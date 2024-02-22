@@ -15,6 +15,6 @@ public class ExampleA : MonoBehaviour
         _boxCollider = GetComponent<BoxCollider>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
         _rigidbody = GetComponentInParent<Rigidbody>();
-        _rigidbody = GetComponentInChildren<Rigidbody>();
+        _meshRenderer = GetComponentInChildren<MeshRenderer>();
     }
 }
